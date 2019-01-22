@@ -9,7 +9,7 @@ jdk 8
 ```
   mvn -U archetype:generate -Dfilter=io.jenkins.archetypes:
 ```
-![avatar](instruction)
+![avatar][instruction]
 ```
 上述图片说明
 ① 项目框架结构类型
